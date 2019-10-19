@@ -2,4 +2,6 @@
 void main()
 {
     int x
+    x++;
+    printf("%d",x);
 }
